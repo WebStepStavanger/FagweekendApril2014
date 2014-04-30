@@ -54,6 +54,7 @@ Benny, Johan Herman, Jostein
 
 Jan Terje, Ørjan, Steffen and Stig Inge
 
+* Visualization of a user's timeline in WPF: <https://github.com/akoz0r/CVPartnerWPFTimeLine>.
 * A partially implemented Java / Dropwizard based REST API for extracting the timeline of a user: <https://github.com/mrsteffenjo/cvpartner-timeline-backend>.
 
 ## Group 43
